@@ -1,3 +1,5 @@
 var playlist ={oyna: 'tans'} ;
 
-function updatePlaylist(playlist, artistName, songTitle)
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}

@@ -1,3 +1,3 @@
 var playlist ={oyna: 'tans'} ;
 
-var 
+var updatePlaylist(playlist, artistName, songTitle)
